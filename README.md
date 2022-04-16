@@ -1,21 +1,20 @@
-# Hackintoshing T490s
+# T490s hackintosh
+## Patches
+I forked this in order to do a couple of [patches](https://mrmad-com-tw.translate.goog/fix-hackintosh-liteon-plextor-skhynix-m2-ssd?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
 ## Specs
-### i7 Variant
-Intel® Core™ i7-8565U CPU @ 1.80GHz  
-### i5 Variant
+### CPU
 Intel i5-8265U (8) @ 3.900GHz
 ### GPU
-Intel® UHD Graphics 620  
+Intel® UHD Graphics 620
 ### Audio
 Realtek High Definition Audio
 ### Internet
 Intel® Wireless-AC 9560 160MHz
 Intel® Ethernet Connection (6) I219-V
 ### Bluetooth
-Bluetooth Device (Personal Area Network)
 Intel® Wireless Bluetooth®
 ### RAM
-8GB is what I have, however you can get 16GB.
+8GB.
 ## Working
 Battery Status  
 Display  
@@ -26,6 +25,7 @@ Trackpad
 Power Management  
 Camera  
 ## Not working
+NVMe (hopefully working soon)  
 Battery status updates when charging  
 DisplayPort via USB-C  
 Bluetooth bugs when sleep wakeup  
@@ -48,4 +48,4 @@ Intel SGX Control DISABLED
 | Startup  
 UEFI/Legacy Boot UEFI Only  
 CSM Support No (per OpenCore Documentation)   
-!!! Thunderbolt BIOS Assist enabled  (0,8W idle)  
+!!! Thunderbolt BIOS Assist enabled  
