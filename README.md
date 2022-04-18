@@ -1,6 +1,6 @@
 # T490s hackintosh
 ## Patches
-I forked this in order to do a couple of [patches](https://mrmad-com-tw.translate.goog/fix-hackintosh-liteon-plextor-skhynix-m2-ssd?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
+I forked this in order to do a couple of [patches](https://mrmad-com-tw.translate.goog/fix-hackintosh-liteon-plextor-skhynix-m2-ssd?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp), and to try to get Monterey to boot.
 ## Specs
 ### CPU
 Intel i5-8265U (8) @ 3.900GHz
